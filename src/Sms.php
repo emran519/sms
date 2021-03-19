@@ -126,7 +126,7 @@ class Sms
      * @param string $email 收件邮箱
      * @param string $title 邮件标题
      * @param string $text  邮件内容
-     * @return string
+     * @return bool
      */
     public function emailParam(string $email, string  $title, string $text) : bool
     {
