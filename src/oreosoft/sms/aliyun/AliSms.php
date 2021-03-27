@@ -1,6 +1,6 @@
 <?php
 
-namespace sms\aliyun;
+namespace oreosoft\sms\aliyun;
 /**
  * 阿里云短信验证码发送类
  *

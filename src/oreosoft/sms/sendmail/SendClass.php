@@ -4,7 +4,7 @@
  * $x = new SMTP('smtp.qq.com',25,true,'kenvix@qq.com','*************');
  * $x->send('God.Kenvix <kenvix@vip.qq.com>','God.Kenvix <kenvix@qq.com>','f','fff');
  */
-namespace sms\sendmail;
+namespace oreosoft\sms\sendmail;
 
 class  SendClass{
     public $smtp_port;

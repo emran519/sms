@@ -1,7 +1,7 @@
 <?php
 
 
-namespace sms;
+namespace oreosoft\sms;
 
 use sms\qcloud\SmsSingleSender;
 use sms\aliyun\AliSms;

@@ -1,6 +1,6 @@
 <?php
 
-namespace sms\qcloud;
+namespace oreosoft\sms\qcloud;
 
 
 /**

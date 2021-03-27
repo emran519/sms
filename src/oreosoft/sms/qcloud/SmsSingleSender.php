@@ -1,8 +1,8 @@
 <?php
 
-namespace sms\qcloud;
+namespace oreosoft\sms\qcloud;
 
-use sms\qcloud\SmsSenderUtil;
+use oreosoft\sms\qcloud\SmsSenderUtil;
 
 /**
  * 单发短信类
