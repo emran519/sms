@@ -3,9 +3,9 @@
 
 namespace oreosoft\sms;
 
-use sms\qcloud\SmsSingleSender;
-use sms\aliyun\AliSms;
-use sms\sendmail\SendClass;
+use oreosoft\sms\qcloud\SmsSingleSender;
+use oreosoft\sms\aliyun\AliSms;
+use oreosoft\sms\sendmail\SendClass;
 
 
 class Sms
