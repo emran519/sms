@@ -21,7 +21,7 @@ $sms = new Sms();
      * @param string $alias     别名(可选)
      * @return bool  
      */
-$sms->email('SMTP地址','SMTP端口'，'发件邮箱账号','发件邮箱密码','别名');
+$sms->email('SMTP地址','SMTP端口','发件邮箱账号','发件邮箱密码','别名');
 /**
      * SMTP邮件发送
      *
